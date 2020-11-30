@@ -1,0 +1,6 @@
+export PickerSelect from './PickerSelect'
+export { Picker } from './Picker'
+export { InputText } from './InputText'
+export { InputNumber } from './InputNumber'
+export { SelectPrefixPhone } from './SelectPrefixPhone'
+export { Texty } from './Texty'
